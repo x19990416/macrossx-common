@@ -1,4 +1,4 @@
-package com.macrossx.tuple;
+package com.macrossx.common.tuple;
 /**
  * 元组创建工具类 
  * @author starseeker.limin@gmail.com(X-Forever)

@@ -1,4 +1,4 @@
-import com.macrossx.tuple.TupleUtil;
+import com.macrossx.common.tuple.TupleUtil;
 
 
 public class a {

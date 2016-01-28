@@ -1,4 +1,4 @@
-package com.macrossx.tuple;
+package com.macrossx.common.tuple;
 
 /**
  * 1元组
